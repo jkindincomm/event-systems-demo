@@ -1,0 +1,14 @@
+/Users/jkind/code/Audit/FileProcessor/obj/Debug/netcoreapp2.1/FileProcessor.csproj.CoreCompileInputs.cache
+/Users/jkind/code/Audit/FileProcessor/obj/Debug/netcoreapp2.1/FileProcessor.RazorAssemblyInfo.cache
+/Users/jkind/code/Audit/FileProcessor/obj/Debug/netcoreapp2.1/FileProcessor.RazorAssemblyInfo.cs
+/Users/jkind/code/Audit/FileProcessor/obj/Debug/netcoreapp2.1/FileProcessor.AssemblyInfoInputs.cache
+/Users/jkind/code/Audit/FileProcessor/obj/Debug/netcoreapp2.1/FileProcessor.AssemblyInfo.cs
+/Users/jkind/code/Audit/FileProcessor/bin/Debug/netcoreapp2.1/FileProcessor.deps.json
+/Users/jkind/code/Audit/FileProcessor/bin/Debug/netcoreapp2.1/FileProcessor.runtimeconfig.json
+/Users/jkind/code/Audit/FileProcessor/bin/Debug/netcoreapp2.1/FileProcessor.runtimeconfig.dev.json
+/Users/jkind/code/Audit/FileProcessor/bin/Debug/netcoreapp2.1/FileProcessor.dll
+/Users/jkind/code/Audit/FileProcessor/bin/Debug/netcoreapp2.1/FileProcessor.pdb
+/Users/jkind/code/Audit/FileProcessor/obj/Debug/netcoreapp2.1/FileProcessor.RazorTargetAssemblyInfo.cache
+/Users/jkind/code/Audit/FileProcessor/obj/Debug/netcoreapp2.1/FileProcessor.dll
+/Users/jkind/code/Audit/FileProcessor/obj/Debug/netcoreapp2.1/FileProcessor.pdb
+/Users/jkind/code/Audit/FileProcessor/obj/Debug/netcoreapp2.1/FileProcessor.csprojAssemblyReference.cache

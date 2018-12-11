@@ -1,0 +1,14 @@
+/Users/jkind/code/Audit/NotificationsApi/bin/Debug/netcoreapp2.1/NotificationsApi.deps.json
+/Users/jkind/code/Audit/NotificationsApi/bin/Debug/netcoreapp2.1/NotificationsApi.runtimeconfig.json
+/Users/jkind/code/Audit/NotificationsApi/bin/Debug/netcoreapp2.1/NotificationsApi.runtimeconfig.dev.json
+/Users/jkind/code/Audit/NotificationsApi/bin/Debug/netcoreapp2.1/NotificationsApi.dll
+/Users/jkind/code/Audit/NotificationsApi/bin/Debug/netcoreapp2.1/NotificationsApi.pdb
+/Users/jkind/code/Audit/NotificationsApi/obj/Debug/netcoreapp2.1/NotificationsApi.csprojAssemblyReference.cache
+/Users/jkind/code/Audit/NotificationsApi/obj/Debug/netcoreapp2.1/NotificationsApi.csproj.CoreCompileInputs.cache
+/Users/jkind/code/Audit/NotificationsApi/obj/Debug/netcoreapp2.1/NotificationsApi.RazorAssemblyInfo.cache
+/Users/jkind/code/Audit/NotificationsApi/obj/Debug/netcoreapp2.1/NotificationsApi.RazorAssemblyInfo.cs
+/Users/jkind/code/Audit/NotificationsApi/obj/Debug/netcoreapp2.1/NotificationsApi.AssemblyInfoInputs.cache
+/Users/jkind/code/Audit/NotificationsApi/obj/Debug/netcoreapp2.1/NotificationsApi.AssemblyInfo.cs
+/Users/jkind/code/Audit/NotificationsApi/obj/Debug/netcoreapp2.1/NotificationsApi.RazorTargetAssemblyInfo.cache
+/Users/jkind/code/Audit/NotificationsApi/obj/Debug/netcoreapp2.1/NotificationsApi.dll
+/Users/jkind/code/Audit/NotificationsApi/obj/Debug/netcoreapp2.1/NotificationsApi.pdb

@@ -1,0 +1,11 @@
+/Users/jkind/code/Audit/Receive/obj/Debug/netcoreapp2.1/Receive.csprojAssemblyReference.cache
+/Users/jkind/code/Audit/Receive/obj/Debug/netcoreapp2.1/Receive.csproj.CoreCompileInputs.cache
+/Users/jkind/code/Audit/Receive/obj/Debug/netcoreapp2.1/Receive.AssemblyInfoInputs.cache
+/Users/jkind/code/Audit/Receive/obj/Debug/netcoreapp2.1/Receive.AssemblyInfo.cs
+/Users/jkind/code/Audit/Receive/bin/Debug/netcoreapp2.1/Receive.deps.json
+/Users/jkind/code/Audit/Receive/bin/Debug/netcoreapp2.1/Receive.runtimeconfig.json
+/Users/jkind/code/Audit/Receive/bin/Debug/netcoreapp2.1/Receive.runtimeconfig.dev.json
+/Users/jkind/code/Audit/Receive/bin/Debug/netcoreapp2.1/Receive.dll
+/Users/jkind/code/Audit/Receive/bin/Debug/netcoreapp2.1/Receive.pdb
+/Users/jkind/code/Audit/Receive/obj/Debug/netcoreapp2.1/Receive.dll
+/Users/jkind/code/Audit/Receive/obj/Debug/netcoreapp2.1/Receive.pdb

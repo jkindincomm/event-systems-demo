@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{0B7D5679-37B1-4850-823C-9813BD2B033E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/ValuesController.cs">
+    <Files>
+      <File FileName="Controllers/ValuesController.cs" Line="60" Column="1" />
+      <File FileName="OrderMessage.cs" Line="23" Column="1" />
+      <File FileName="FileMessage.cs" Line="16" Column="12" />
+      <File FileName="File.cs" Line="16" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/jkind/code/Audit/FileProcessor/Controllers/ValuesController.cs" relfile="Controllers/ValuesController.cs" line="42" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FileProcessor PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

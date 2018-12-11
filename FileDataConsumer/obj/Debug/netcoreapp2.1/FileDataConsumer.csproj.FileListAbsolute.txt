@@ -1,0 +1,14 @@
+/Users/jkind/code/Audit/FileDataConsumer/obj/Debug/netcoreapp2.1/FileDataConsumer.csprojAssemblyReference.cache
+/Users/jkind/code/Audit/FileDataConsumer/obj/Debug/netcoreapp2.1/FileDataConsumer.csproj.CoreCompileInputs.cache
+/Users/jkind/code/Audit/FileDataConsumer/obj/Debug/netcoreapp2.1/FileDataConsumer.RazorAssemblyInfo.cache
+/Users/jkind/code/Audit/FileDataConsumer/obj/Debug/netcoreapp2.1/FileDataConsumer.RazorAssemblyInfo.cs
+/Users/jkind/code/Audit/FileDataConsumer/obj/Debug/netcoreapp2.1/FileDataConsumer.AssemblyInfoInputs.cache
+/Users/jkind/code/Audit/FileDataConsumer/obj/Debug/netcoreapp2.1/FileDataConsumer.AssemblyInfo.cs
+/Users/jkind/code/Audit/FileDataConsumer/bin/Debug/netcoreapp2.1/FileDataConsumer.deps.json
+/Users/jkind/code/Audit/FileDataConsumer/bin/Debug/netcoreapp2.1/FileDataConsumer.runtimeconfig.json
+/Users/jkind/code/Audit/FileDataConsumer/bin/Debug/netcoreapp2.1/FileDataConsumer.runtimeconfig.dev.json
+/Users/jkind/code/Audit/FileDataConsumer/bin/Debug/netcoreapp2.1/FileDataConsumer.dll
+/Users/jkind/code/Audit/FileDataConsumer/bin/Debug/netcoreapp2.1/FileDataConsumer.pdb
+/Users/jkind/code/Audit/FileDataConsumer/obj/Debug/netcoreapp2.1/FileDataConsumer.RazorTargetAssemblyInfo.cache
+/Users/jkind/code/Audit/FileDataConsumer/obj/Debug/netcoreapp2.1/FileDataConsumer.dll
+/Users/jkind/code/Audit/FileDataConsumer/obj/Debug/netcoreapp2.1/FileDataConsumer.pdb

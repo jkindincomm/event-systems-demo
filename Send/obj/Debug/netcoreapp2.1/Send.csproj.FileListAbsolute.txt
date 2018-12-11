@@ -1,0 +1,11 @@
+/Users/jkind/code/Audit/Send/bin/Debug/netcoreapp2.1/Send.deps.json
+/Users/jkind/code/Audit/Send/bin/Debug/netcoreapp2.1/Send.runtimeconfig.json
+/Users/jkind/code/Audit/Send/bin/Debug/netcoreapp2.1/Send.runtimeconfig.dev.json
+/Users/jkind/code/Audit/Send/bin/Debug/netcoreapp2.1/Send.dll
+/Users/jkind/code/Audit/Send/bin/Debug/netcoreapp2.1/Send.pdb
+/Users/jkind/code/Audit/Send/obj/Debug/netcoreapp2.1/Send.csprojAssemblyReference.cache
+/Users/jkind/code/Audit/Send/obj/Debug/netcoreapp2.1/Send.csproj.CoreCompileInputs.cache
+/Users/jkind/code/Audit/Send/obj/Debug/netcoreapp2.1/Send.AssemblyInfoInputs.cache
+/Users/jkind/code/Audit/Send/obj/Debug/netcoreapp2.1/Send.AssemblyInfo.cs
+/Users/jkind/code/Audit/Send/obj/Debug/netcoreapp2.1/Send.dll
+/Users/jkind/code/Audit/Send/obj/Debug/netcoreapp2.1/Send.pdb
